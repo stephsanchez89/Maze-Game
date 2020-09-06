@@ -1,0 +1,9 @@
+C:\Users\Julian\source\repos\gameMaze\gameMaze\bin\Debug\gameMaze.exe.config
+C:\Users\Julian\source\repos\gameMaze\gameMaze\bin\Debug\gameMaze.exe
+C:\Users\Julian\source\repos\gameMaze\gameMaze\bin\Debug\gameMaze.pdb
+C:\Users\Julian\source\repos\gameMaze\gameMaze\obj\Debug\gameMaze.csprojAssemblyReference.cache
+C:\Users\Julian\source\repos\gameMaze\gameMaze\obj\Debug\gameMaze.Form1.resources
+C:\Users\Julian\source\repos\gameMaze\gameMaze\obj\Debug\gameMaze.Properties.Resources.resources
+C:\Users\Julian\source\repos\gameMaze\gameMaze\obj\Debug\gameMaze.csproj.GenerateResource.cache
+C:\Users\Julian\source\repos\gameMaze\gameMaze\obj\Debug\gameMaze.exe
+C:\Users\Julian\source\repos\gameMaze\gameMaze\obj\Debug\gameMaze.pdb
